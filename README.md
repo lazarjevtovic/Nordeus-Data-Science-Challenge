@@ -11,3 +11,6 @@ registration_data_test.csv
 
 ## Environment
 The project environment can be recreated by using environment.yml file.
+
+## Results
+The results of this project are pairs (user_id, predicted_days_active_first_28_days_after_registration) which can be found in days_active_first_28_days_after_registration_predictions.csv
